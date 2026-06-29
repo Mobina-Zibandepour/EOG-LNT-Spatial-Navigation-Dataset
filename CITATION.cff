@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+title: "Electrooculography Dataset for Objective Spatial Navigation Assessment in Healthy Participants During the Leiden Navigation Test"
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: Zibandehpoor
+    given-names: Mobina
+    affiliation: "K. N. Toosi University of Technology"
+  - family-names: Alizadehziri
+    given-names: Fatemeh
+    affiliation: "K. N. Toosi University of Technology"
+  - family-names: Larki
+    given-names: Arash Abbasi
+    affiliation: "K. N. Toosi University of Technology"
+  - family-names: Teymouri
+    given-names: Sobhan
+    affiliation: "K. N. Toosi University of Technology"
+  - family-names: Delrobaei
+    given-names: Mehdi
+    affiliation: "K. N. Toosi University of Technology"
+    email: delrobaei@kntu.ac.ir
+version: "3"
+date-released: 2025-02-22
+doi: 10.6084/m9.figshare.27156459
+url: "https://doi.org/10.6084/m9.figshare.27156459"
+license: CC-BY-4.0
+keywords:
+  - electrooculography
+  - EOG
+  - spatial navigation
+  - Leiden Navigation Test
+  - eye movements
+  - saccades
+  - fixations
+  - cognitive assessment
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Zibandehpoor
+      given-names: Mobina
+    - family-names: Alizadehziri
+      given-names: Fatemeh
+    - family-names: Larki
+      given-names: Arash Abbasi
+    - family-names: Teymouri
+      given-names: Sobhan
+    - family-names: Delrobaei
+      given-names: Mehdi
+  title: "Electrooculography Dataset for Objective Spatial Navigation Assessment in Healthy Participants"
+  journal: "Scientific Data"
+  volume: 12
+  start: 553
+  year: 2025
+  doi: 10.1038/s41597-025-04879-z

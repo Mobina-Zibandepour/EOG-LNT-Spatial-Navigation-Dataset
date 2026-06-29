@@ -1,0 +1,29 @@
+Correct Answers,yes,no,no,yes,yes,yes,no,no,C,C,C,D, B-C,B-C,A-C ,B-C,D,C,B,C,left,right,right,right
+Participant ID:,Did you see this image along the way?,Did you see this image along the way?,Did you see this image along the way?,Did you see this image along the way?,Did you see this image along the way?,Did you see this image along the way?,Did you see this image along the way?,Did you see this image along the way?,Which direction did you continue after seeing this landmark?,Which direction did you continue after seeing this landmark?,Which direction did you continue after seeing this landmark?,Which direction did you continue after seeing this landmark?,Which two images were closer to each other along the way?,Which two images were closer to each other along the way?,Which two images were closer to each other along the way?,Which two images were closer to each other along the way?,Where was the object in front of you located on the map?,Where was the object in front of you located on the map?,Where was the object in front of you located on the map?,Where was the object in front of you located on the map?,In which direction did the path continue?,In which direction did the path continue?,In which direction did the path continue?,In which direction did the path continue?
+1,yes,yes,no,yes,yes,yes,no,no,C,C,C,A,B - C,B - C,A - C,B - C,D,A,C,A,left,right,right,left
+2,no,no,no,no,yes,yes,no,no,C,D,B,D,A - B,A - C,A - C,A - C,C,B,B,D,left,left,right,right
+3,yes,no,no,no,yes,no,no,no,D,C,B,A,A - B,A - C,B - C,B - C,C,C,B,A,right,right,right,right
+4,yes,yes,no,no,no,no,no,no,C,D,F,E,A - C,A - B,A - B,B - C,B,D,C,D,left,right,right,straight ahead
+5,yes,no,no,yes,yes,yes,no,no,C,C,E,D,B - C,B - C,A - C,B - C,D,C,C,C,left,left,right,left
+6,yes,no,no,yes,yes,yes,no,no,C,C,C,D,A - C,B - C,A - C,B - C,C,C,C,B,left,right,right,right
+7,no,no,no,no,no,no,no,no,C,C,C,D,A - B,A - C,B - C,A - C,D,A,B,A,left,left,right,right
+8,yes,yes,no,yes,yes,yes,no,no,C,A,C,D,A - C,B - C,A - C,B - C,C,B,A,C,right,left,right,straight ahead
+9,no,no,no,no,no,yes,no,no,C,C,C,D,A - C,A - C,A - B,B - C,A,C,C,A,left,right,right,straight ahead
+10,no,no,yes,yes,yes,yes,yes,no,C,D,E,A,A - B,B - C,B - C,A - B,D,B,C,C,left,right,right,straight ahead
+11,yes,no,no,yes,yes,yes,no,yes,F,E,B,A,B - C,A - B,A - B,A - C,D,A,D,C,left,right,left,left
+12,yes,no,no,yes,yes,yes,no,no,D,D,F,D,B - C,A - B,A - C,B - C,A,D,A,C,left,right,right,left
+13,yes,no,no,yes,yes,yes,no,no,C,C,C,D,A - B,B - C,B - C,B - C,D,C,B,C,left,right,right,right
+14,yes,no,no,yes,yes,yes,no,yes,C,D,C,D,A - B,A - B,A - B,B - C,D,A,D,C,left,right,right,left
+15,yes,no,no,yes,no,yes,no,no,E,D,C,D,A - C,A - C,A - B,B - C,B,C,C,A,left,right,left,right
+16,yes,no,no,yes,no,yes,no,no,C,A,C,D,A - B,B - C,A - B,B - C,D,C,C,B,left,left,right,left
+17,no,yes,no,yes,yes,no,no,no,C,C,C,D,A - C,B - C,A - B,B - C,D,C,C,B,left,right,right,right
+18,yes,no,no,yes,yes,yes,no,no,C,A,C,D,B - C,B - C,B - C,B - C,D,C,B,C,left,left,right,straight ahead
+19,yes,no,no,yes,no,yes,no,no,C,E,C,A,B - C,B - C,A - B,B - C,D,C,A,A,left,right,right,left
+20,yes,no,no,yes,yes,no,no,no,C,C,C,D,A - B,B - C,A - C,B - C,D,C,C,C,left,left,right,right
+21,yes,no,no,yes,yes,yes,no,no,C,A,B,B,B - C,B - C,B - C,B - C,D,C,C,B,right,left,right,left
+22,no,no,no,no,no,yes,no,no,C,C,E,B,B - C,A - B,A - B,B - C,B,D,C,A,right,left,right,right
+23,yes,no,no,yes,yes,yes,no,no,C,C,C,D,A - C,B - C,B - C,B - C,C,A,C,A,left,left,right,right
+24,yes,yes,no,yes,yes,yes,no,no,C,A,C,D,B - C,A - B,A - C,B - C,C,C,B,B,left,left,right,straight ahead
+25,no,no,no,yes,yes,yes,no,no,C,A,C,A,A - B,B - C,A - C,B - C,C,B,A,B,right,right,right,straight ahead
+26,no,yes,no,no,yes,yes,yes,no,C,C,C,A,B - C,B - C,A - C,B - C,C,D,C,C,right,left,right,right
+27,yes,yes,no,yes,yes,yes,no,no,C,D,C,A,A - C,A - C,B - C,A - C,D,C,C,B,left,left,right,right

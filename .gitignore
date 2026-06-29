@@ -1,0 +1,8 @@
+# Separate analysis-code repository (do not include in dataset repo)
+Eye-Movement-Analysis-Algorithm-Using-EOG-main/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
